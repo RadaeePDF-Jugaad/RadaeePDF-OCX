@@ -2,11 +2,7 @@
 
 The application is a fast and small PDF viewer.
 
-It relies on  
-
-[RadaeePDF]: https://www.radaeepdf.com
-
-rendering engine wrapped in an OCX object running on Windows 32bit.
+It relies on **RadaeePDF SDK** (https://www.radaeepdf.com) rendering engine wrapped in an OCX object running on Windows 32bit.
 
 ## Project structure
 
