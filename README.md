@@ -32,7 +32,7 @@ Use the OCX in your projects for free.
 
 To support our work, reference https://www.radaeepdf.com as author of the PDF reader engine.
 
-## Main features
+## Features
 
 Included features are *open and read PDF*, *plain text search*, *save page to bitmap*, *show single page mode*, *show double page mode*, *annotation rendering*, and few more.
 
