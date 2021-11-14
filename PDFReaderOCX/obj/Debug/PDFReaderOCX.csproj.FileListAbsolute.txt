@@ -1,0 +1,4 @@
+C:\Users\df\Documents\Progetti_Radaee\WindowsOCX\RDPDFOCX\publish\PDFReaderOCX\obj\Debug\PDFReaderOCX.csproj.AssemblyReference.cache
+C:\Users\df\Documents\Progetti_Radaee\WindowsOCX\RDPDFOCX\publish\PDFReaderOCX\obj\Debug\Interop.RDPDFLib.dll
+C:\Users\df\Documents\Progetti_Radaee\WindowsOCX\RDPDFOCX\publish\PDFReaderOCX\obj\Debug\AxInterop.RDPDFLib.dll
+C:\Users\df\Documents\Progetti_Radaee\WindowsOCX\RDPDFOCX\publish\PDFReaderOCX\obj\Debug\PDFReaderOCX.csproj.ResolveComReference.cache
