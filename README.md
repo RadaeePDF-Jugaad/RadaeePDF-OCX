@@ -22,7 +22,7 @@ If not available, copy `cmaps.dat` and `umaps.dat` in the same folder of `RDPDF.
 
 Open the **PDFReaderOCX** project with VisualStudio and set the proper .NET framework's version: the default one is .NET 4.7.2.
 
-## Use and limitation
+## Usage and limitation
 
 You can use the included OCX in your projects and derive the user interface and code from the included C#.
 
