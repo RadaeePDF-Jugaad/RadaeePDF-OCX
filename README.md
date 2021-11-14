@@ -36,7 +36,7 @@ To support our work, reference https://www.radaeepdf.com as author of the PDF re
 
 Included features are *open and read PDF*, *plain text search*, *save page to bitmap*, *show single page mode*, *show double page mode*, *annotation rendering*, and few more.
 
-Features like *interaction with annotations*, *add/removing annotation*, *follow hyperlinks*, *AcroForm*, *page copy*, *page rotate*, *page deletion*, and many more feature are available in the [RadaeePDF Classic](https://www.radaeepdf.com/home/technical-specification) and [RadaeePDF Master](https://www.radaeepdf.com/home/technical-specification-master) version of the tool running on iOS, Android, Windows UWP.
+Features like *interaction with annotations*, *add/removing annotation*, *follow hyperlinks*, *AcroForm*, *page copy*, *page rotate*, *page deletion*, and many more feature are available in the [RadaeePDF Classic SDK](https://www.radaeepdf.com/home/technical-specification) and [RadaeePDF Master SDK](https://www.radaeepdf.com/home/technical-specification-master) version of the tool running on iOS, Android, Windows UWP.
 
 
 ## License
