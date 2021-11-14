@@ -1,5 +1,7 @@
 # RadaeePDF OCX
 
+<img src="https://www.radaeepdf.com/images/logo/radaee_master_225x200.png" style="zoom:30%;">
+
 The application is a fast and small PDF viewer.
 
 It relies on **RadaeePDF SDK** (https://www.radaeepdf.com) rendering engine wrapped in an OCX object running on Windows 32bit.
