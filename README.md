@@ -1,6 +1,6 @@
 # RadaeePDF OCX
 
-<img src="https://www.radaeepdf.com/images/logo/radaee_master_225x200.png" style="width:100px;">
+<img src="https://www.radaeepdf.com/wp-content/uploads/2024/08/solo_butterly_midres.png" style="width:100px;"> 
 
 The application is a fast and small PDF viewer.
 
